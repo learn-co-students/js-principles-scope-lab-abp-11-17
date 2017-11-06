@@ -17,10 +17,10 @@ function overwriteBestCustomer() {
 const leastFavoriteCustomer = 'Sammy'
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer += ' Bob'
+  leastFavoriteCustomer = ' Bob'
 }
 
 function attemptTwoFavoriteCustomers() {
+  let favoriteCustomer = 'sdfa'
   let favoriteCustomer = 'asdf'
-  let favoriteCustomer = ''
 }
