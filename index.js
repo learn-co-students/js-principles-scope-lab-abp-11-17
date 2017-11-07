@@ -19,10 +19,11 @@ function changeLeastFavoriteCustomer () {
   leastFavoriteCustomer = 'me';
 }
 
-let favoriteCustomer = 'jim1';
+//let favoriteCustomer = 'jim1';
 function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = 'jim2';
+  const favoriteCustomer = 'jim1';
+  const favoriteCustomer = 'jim2';
   //let favoriteCustomer = 'jim3';
-  return favoriteCustomer;
+  //return favoriteCustomer;
 }
 //let favoriteCustomer = 'jim4';
