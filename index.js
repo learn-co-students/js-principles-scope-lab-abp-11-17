@@ -25,6 +25,6 @@ function congratulateCustomer () {
 
 //it('unsuccessfully tries to declare favoriteCustomer with let two times', function() {//
 function attemptTwoFavoriteCustomers () {
-  let favoriteCustomer = 'spahetti eddie';
+  let favoriteCustomer = 'spaghetti eddie';
   let favoriteCustomer = 'Marlon Brando';
 }
