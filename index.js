@@ -23,6 +23,7 @@ function congratulateCustomer () {
   return `congrats ${favoriteCustomer}`;
 }
 
+//it('unsuccessfully tries to declare favoriteCustomer with let two times', function() {//
 function attemptTwoFavoriteCustomers () {
   let favoriteCustomer = 'spahetti eddie';
   let favoriteCustomer = 'Marlon Brando';
